@@ -1,4 +1,4 @@
-# **bible_project** ✞
+# **Bible Project** ✞
 
 
 ## Overview
