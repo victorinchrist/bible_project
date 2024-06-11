@@ -1,5 +1,6 @@
 # **Bible Project** ✞
 
+Gospel focused platform (?)
 
 ## Overview
 
