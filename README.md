@@ -1,1 +1,1 @@
-# bible_project
+# bible_project ✞
