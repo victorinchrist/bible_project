@@ -11,3 +11,4 @@ This project is designed with the goal of making kids Bible education easier. Pr
 
 Some useful resources that I can take credit from:
 - https://bibleforchildren.org/languages/english/stories.php
+- https://biblehub.com/childrens/
